@@ -2,7 +2,7 @@
 
 This is my location to document my thoughts, research, and observations.
 
-### Inspiration
+### Inspiration, ΥΓΕΙΑ, and Intuition
 
 ![The Perspective of Nature](/Slate_Valley.jpg)
 ```
