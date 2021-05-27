@@ -30,6 +30,7 @@ github_username:  jekyll
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-admin
 
 # Exclude from processing.
 # The following items will not be processed, by default.
