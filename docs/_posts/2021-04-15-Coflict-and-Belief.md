@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Conflict and Beleif"
+permalink: /post1/
 ---
 
 # Welcome
