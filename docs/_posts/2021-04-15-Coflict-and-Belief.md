@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Conflict and Beleif"
 permalink: /post1/
 ---
