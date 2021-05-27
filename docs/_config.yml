@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wisdom and Intuition Inspired Mathematical Research
+title: Bill's Wisdom
 email: wise9014@colorado.edu
 description: Uncertainty Analysis Research Inspired to Improve Infrastructure Sustainability and Hazard Resilience
 baseurl: "" # the subpath of your site, e.g. /blog
