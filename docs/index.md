@@ -11,6 +11,8 @@ This is my location to document my thoughts, research, and observations.
 
 If you would like to contact me, please don't hesitate to email me at:
 wise9014@colorado.edu
+
+### Post Directory
 <ul>
   {% for post in site.posts %}
     <li>
