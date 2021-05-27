@@ -1,7 +1,8 @@
+---
 layout: post
 title: "Conflict and Beleif"
 date: 2021-04-15 14:30:00
-
+---
 
 The potential for epistemic conflict exists whenever one commits the majority of their belief to single outcomes. If one holds more bleif in a range of possiblities, in uncertainty, in recognition of ignorance, then there is little room for conflict. However, by commiting one's blief, conflict seems to necessarily arise.
 
