@@ -3,7 +3,7 @@ layout: post
 title: "Stay Positive"
 permalink: /post3/
 author: Bill
-date: 2021-05-28 09:00:00 -0600
+date: 2021-05-28
 ---
 
 # What's Important
