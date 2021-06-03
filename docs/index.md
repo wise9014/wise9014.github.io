@@ -1,18 +1,8 @@
 ## Welcome to Bill's Page
 
-This is my location to document my thoughts, research, and observations. Please click one of the links below if you are interested in reading my bio, a d
-
-### Page Directory
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-### Inspiration, ΥΓΕΙΑ, and Intuition
-
+This is my location to document my thoughts, research, and observations. Please click one of the links below if you are interested in reading my bio or a description of my research. Or if you are interested in my writing, please scroll down for a list of my daily blog posts.
+ - [Bio](https://wise9014.github.io/bio)
+ - [Research](https://wise9014.github.io/research)
 ![The Perspective of Nature](/Slate_Valley.jpg)
 ```
 
