@@ -1,6 +1,15 @@
 ## Welcome to Bill's Page
 
-This is my location to document my thoughts, research, and observations.
+This is my location to document my thoughts, research, and observations. Please click one of the links below if you are interested in reading my bio, a d
+
+### Page Directory
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ### Inspiration, ΥΓΕΙΑ, and Intuition
 
